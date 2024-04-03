@@ -31,7 +31,6 @@ O jogo da velha é um jogo clássico de dois jogadores, onde os jogadores altern
 4. Escolha se deseja jogar contra outro jogador humano ou contra o computador.
 5. Faça suas jogadas alternadamente com o outro jogador ou o computador.
 6. O jogo irá mostrar uma mensagem quando um dos jogadores ganhar ou quando houver empate.
-7. Você pode resetar o jogo ou salvar e carregar o estado atual do jogo usando os botões na tela.
 
 ## Contribuição
 
